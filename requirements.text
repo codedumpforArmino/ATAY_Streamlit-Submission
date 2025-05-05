@@ -1,4 +1,1 @@
-streamlit
-tensorflow
-numpy
-pandas
+tensorflow==2.19.0
